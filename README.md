@@ -1,8 +1,8 @@
 # Voron 0.2 Configs
 
-Current version and backups of my Voron 0.2 config files.
+Current working version and backups of my Voron 0.2 config files.
 
-Current Hardware: Formbot V0.2 Kit, Mini Stealthburner w/ Phaetus Dragon
+Installed Hardware: Formbot V0.2 Kit, Mini Stealthburner w/ Phaetus Dragon
 
 WARNING: Macros are a WIP, and I'm a n00b/idiot so you definately should not use/trust them. 
 
